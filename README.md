@@ -2,5 +2,5 @@
 # Angel Badillo Hernandez
 #### Personal email: &nbsp; badilloa022402@gmail.com
 #### School email: &nbsp; &nbsp; &nbsp;abadillo0224@my.msutexas.edu
-#### My website: &nbsp; &nbsp; &nbsp; &nbsp;https://It-Is-Legend27.repl.com
+#### My website: &nbsp; &nbsp; &nbsp; &nbsp;https://it-is-legend27.repl.co/
 <img title="Background" alt="Background" src="https://i.redd.it/3sjr0ldpx9f21.png" width="">
