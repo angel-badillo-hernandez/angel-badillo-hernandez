@@ -95,7 +95,7 @@ a.nav-link{
 }
 
 #home .filter{
-	background: url(https://images.unsplash.com/photo-1635352764494-bcf00eb13415?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80) no-repeat;
+	background: url() no-repeat;
 	background-size: cover;
 	background-position:center;
     position: absolute;
@@ -103,7 +103,7 @@ a.nav-link{
     bottom: 0;
     left: 0;
     right: 0;
-	opacity:0.90;
+	opacity:0.20;
 }  
 
 .intro {
