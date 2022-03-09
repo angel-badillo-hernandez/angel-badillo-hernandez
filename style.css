@@ -95,7 +95,7 @@ a.nav-link{
 }
 
 #home .filter{
-	background: url() no-repeat;
+	background: url(https://imgx.app/j6xort) no-repeat;
 	background-size: cover;
 	background-position:center;
     position: absolute;
@@ -103,7 +103,7 @@ a.nav-link{
     bottom: 0;
     left: 0;
     right: 0;
-	opacity:0.20;
+	opacity:0.60;
 }  
 
 .intro {
