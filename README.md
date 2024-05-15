@@ -49,15 +49,15 @@
 
 ## 📈 My Github Stats
 <p align="center">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Angel Badillo's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=it-is-legend27&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Angel Badillo's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=angel-badillo-hernandez&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 
  <br/>
-    <img alt="Angel Badillo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=it-is-legend27&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <img alt="Angel Badillo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=angel-badillo-hernandez&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
     
 
   <br/>
-<img alt="Angel Badillo's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=it-is-legend27&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<img alt="Angel Badillo's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angel-badillo-hernandez&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 <br/>
 <br/>
@@ -76,7 +76,7 @@
 
 
 </p>
-    <img src="https://komarev.com/ghpvc/?username=it-is-legend27">
+    <img src="https://komarev.com/ghpvc/?username=angel-badillo-hernandez">
  
  
 ## 🔧 Projects
