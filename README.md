@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Angel Badillo Hernandez</h1>
-<h3 align="center">Master of Science in Computer Science May 2024</h3>
-<h3 align="center">Bachelor of Science in Computer Science December 2023</h3>
+<h3 align="center">Master of Science in Computer Science</h3>
+<h3 align="center">Bachelor of Science in Computer Science</h3>
 
  
 ## 🔥 About Me 
