@@ -38,7 +38,18 @@
    <a href="https://flutter.dev/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/flutter.png"/></a>
   <a href="https://dart.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/dart.png"/></a>
   <a href="https://reactnative.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
-  <a href="https://isocpp.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus"/></a>
+  <a href="https://isocpp.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo"/></a>
+  <a href="https://isocpp.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/></a>
+  <a href="https://isocpp.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/></a>
+  <a href="https://isocpp.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/net-framework"/></a>
+    <a href="https://isocpp.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mongodb"/></a>
+      <a href="https://isocpp.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/sql"/></a>
+        <a href="https://isocpp.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/vite"/></a>
+          <a href="https://isocpp.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/windows-11"/></a>
+            <a href="https://isocpp.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linux"/></a>
+              <a href="https://isocpp.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/android-user"/></a>
+                <a href="https://isocpp.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/android-studio"/></a>
+                    <a href="https://isocpp.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio"/></a>
   
 </p>
 
